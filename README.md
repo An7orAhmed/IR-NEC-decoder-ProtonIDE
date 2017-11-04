@@ -16,4 +16,4 @@ if you don't need it, just delete 38 no. line from "IR_NEC.inc" file.</i>
 <b>Remember:</b> calling read_NEC will block your code.
 
 Circuit Diagram:
-https://github.com/AntorOfficial/IR-NEC-decoder-ProtonIDE/blob/master/diagram.PNG
+<img src="https://github.com/AntorOfficial/IR-NEC-decoder-ProtonIDE/blob/master/diagram.PNG" width="350"/>
