@@ -14,3 +14,16 @@ How to use:
 if you don't need it, just delete 38 no. line from "IR_NEC.inc" file.</i>
   
 <b>Remember:</b> calling read_NEC will block your code.
+
+Circuit diagram:
+   __________
+  |   |  |   |
+  |   |  |   |
+  |   |  |   |   <--- 38Khz IR Receiver sensor
+  |   |  |   |
+  ------------                  _________________ To I/O pin
+   |   |    |                  |           |
+   -   +    --------^^^^------( | BC547    ||
+                    4.7K       |           ||
+                               |           |
+                              GND         +5v
