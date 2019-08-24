@@ -1,4 +1,4 @@
-# IR-NEC-decoder-ProtonIDE
+# IR NEC decoder [ProtonIDE]
 
 This is just a demo project based on IR NEC protocol.
 
